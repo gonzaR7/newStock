@@ -1,0 +1,19 @@
+[debug] Packaging E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\insert-stock_2.12-2.0.jar ...
+[debug] Input file mappings:
+[debug] 	org
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org
+[debug] 	org\novakorp
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp
+[debug] 	org\novakorp\com
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com
+[debug] 	org\novakorp\com\entry$.class
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com\entry$.class
+[debug] 	org\novakorp\com\entry.class
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com\entry.class
+[debug] 	org\novakorp\com\functions$.class
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com\functions$.class
+[debug] 	org\novakorp\com\functions.class
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com\functions.class
+[debug] 	org\novakorp\com\SparkSessionWrapper.class
+[debug] 	  E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes\org\novakorp\com\SparkSessionWrapper.class
+[debug] Done packaging.
