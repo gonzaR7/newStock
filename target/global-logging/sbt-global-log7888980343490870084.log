@@ -1,0 +1,8 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 3 s, completed 02/10/2023 13:24:31
+[debug] > Exec(idea-shell, None, None)
