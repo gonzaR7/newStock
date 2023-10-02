@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insert-stock.iml" filepath="$PROJECT_DIR$/.idea/modules/insert-stock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insert-stock-build.iml" filepath="$PROJECT_DIR$/.idea/modules/insert-stock-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insert-newStock.iml" filepath="$PROJECT_DIR$/.idea/modules/insert-newStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insert-newStock-build.iml" filepath="$PROJECT_DIR$/.idea/modules/insert-newStock-build.iml" />
     </modules>
   </component>
 </project>

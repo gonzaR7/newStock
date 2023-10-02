@@ -1,4 +1,4 @@
-name := "insert-stock"
+name := "insert-newStock"
 
 version := "2.0"
 
