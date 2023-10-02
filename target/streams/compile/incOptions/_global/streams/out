@@ -1,9 +1,16 @@
 [debug] Created transactional ClassFileManager with tempDir = E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes.bak
 [debug] About to delete class files:
+[debug] 	entry.class
+[debug] 	entry$.class
+[debug] 	functions.class
+[debug] 	functions$.class
+[debug] 	SparkSessionWrapper.class
 [debug] We backup class files:
-[debug] Created transactional ClassFileManager with tempDir = E:\Escritorio\Work Things\Nova\LAR\newStock\target\scala-2.12\classes.bak
-[debug] About to delete class files:
-[debug] We backup class files:
+[debug] 	entry.class
+[debug] 	entry$.class
+[debug] 	functions.class
+[debug] 	functions$.class
+[debug] 	SparkSessionWrapper.class
 [debug] Registering generated classes:
 [debug] 	entry.class
 [debug] 	entry$.class

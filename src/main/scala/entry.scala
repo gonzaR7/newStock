@@ -33,7 +33,7 @@ object entry extends SparkSessionWrapper {
     }
 
     // Se buscan los artículos que no están en existencia_inicial pero que sí tienen movimientos en la sucursal X
-    val df_ei_codes = df_ei.select("codigo_interno")
+    val df_ei_codes = df_stock.select("codigo")
     val df_mov_codes = df_movimientos.select("codigo_articulo").distinct()
     val df_new_codes = df_mov_codes.except(df_ei_codes)
     val dfToInsertNew = df_new_codes.withColumn("fecha_proceso", lit("20230630")).withColumn("fecha_stock", lit("2023-06-30")).withColumn("existencia",lit(0)).select(col("codigo_articulo").as("codigo"), col("existencia").cast("float"), col("fecha_stock").cast("date"), col("fecha_proceso"))
